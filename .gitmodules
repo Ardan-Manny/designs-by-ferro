@@ -1,0 +1,15 @@
+[submodule "themes/hugo-myportfolio-theme"]
+	path = themes/hugo-myportfolio-theme
+	url = https://github.com/manuellington/hugo-myportfolio-theme.git
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/budparr/gohugo-theme-ananke.git
+[submodule "themes/navigator-hugo"]
+	path = themes/navigator-hugo
+	url = https://github.com/manuellington/navigator-hugo.git
+[submodule "themes/hugo-hero-theme"]
+	path = themes/hugo-hero-theme
+	url = https://github.com/manuellington/hugo-hero-theme.git
+[submodule "themes/hugo-resume"]
+	path = themes/hugo-resume
+	url = https://github.com/manuellington/hugo-resume.git
